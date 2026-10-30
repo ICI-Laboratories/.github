@@ -1,3 +1,13 @@
+<p align="left">
+  <a href="https://ici-labs.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/ici-logo-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/ici-logo-light.svg">
+      <img alt="ICI Laboratories" src="./assets/ici-logo-light.svg" width="280" height="56">
+    </picture>
+  </a>
+</p>
+
 # ICI Laboratories
 
 **Club estudiantil independiente de desarrollo de software e investigación en Inteligencia Artificial aplicada.**

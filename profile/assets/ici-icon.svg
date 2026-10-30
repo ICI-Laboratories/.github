@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36" width="512" height="512" fill="none" aria-label="ICI Laboratories Icon">
+  <rect x="0" y="0" width="36" height="36" rx="8" fill="#0A0D14"/>
+  <rect x="2" y="2" width="32" height="32" rx="7" fill="#0A0D14" stroke="#1D63FF" stroke-width="1.5" />
+  <path d="M10 12H14V24H10V12Z" fill="#1D63FF" />
+  <path d="M16 12H24C25.1 12 26 12.9 26 14V15H22V14.5C22 14.2 21.8 14 21.5 14H18.5C18.2 14 18 14.2 18 14.5V21.5C18 21.8 18.2 22 18.5 22H21.5C21.8 22 22 21.8 22 21.5V21H26V22C26 23.1 25.1 24 24 24H16V12Z" fill="#E6ECF5" />
+  <circle cx="28" cy="12" r="2" fill="#1D63FF" />
+</svg>
