@@ -1,9 +1,9 @@
 <p align="left">
   <a href="https://ici-labs.com">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/ici-logo-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="./assets/ici-logo-light.svg">
-      <img alt="ICI Laboratories" src="./assets/ici-logo-light.svg" width="280" height="56">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ICI-Laboratories/.github/main/profile/assets/ici-logo-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ICI-Laboratories/.github/main/profile/assets/ici-logo-light.svg">
+      <img alt="ICI Laboratories" src="https://raw.githubusercontent.com/ICI-Laboratories/.github/main/profile/assets/ici-logo-light.svg" width="280" height="56">
     </picture>
   </a>
 </p>
